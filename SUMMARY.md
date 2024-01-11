@@ -2,7 +2,8 @@
 
 * [Section 3: Database Access with Hibernate/JPA CRUD](README.md)
   * [Entity](section-3-database-access-with-hibernate-jpa-crud/entity.md)
-  * [DAO](section-3-database-access-with-hibernate-jpa-crud/dao.md)
+  * [DAO](section-3-database-access-with-hibernate-jpa-crud/dao/README.md)
+    * [Paging](section-3-database-access-with-hibernate-jpa-crud/dao/paging.md)
   * [JPA Repository](section-3-database-access-with-hibernate-jpa-crud/jpa-repository.md)
 * [Section 4: REST CRUD APIs](section-4-rest-crud-apis/README.md)
   * [Exception Handling](section-4-rest-crud-apis/exception-handling.md)
